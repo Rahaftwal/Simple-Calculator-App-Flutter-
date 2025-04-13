@@ -2,6 +2,8 @@
 
 A beautiful and functional calculator application built with Flutter, featuring a clean UI and smooth operations.
 
+![Screenshot_20250413-185842](https://github.com/user-attachments/assets/5c05076a-d509-4f1b-9fcf-a61b975ca0b4)
+
 ## Features
 
 - Basic arithmetic operations (addition, subtraction, multiplication, division)
